@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Reference notebook; working_notebook.ipynb is the editable submission notebook.
+arc3-sample-submission-random-agent.ipynb
